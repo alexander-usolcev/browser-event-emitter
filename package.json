@@ -1,6 +1,6 @@
 {
   "name": "browser-event-emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple implementation of EventEmitter in browser",
   "author": "Alexander Usolcev <alexander.usolcev@gmail.com>",
   "repository": {
@@ -35,5 +35,9 @@
     "events",
     "event"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexander-usolcev/browser-event-emitter/issues"
+  },
+  "homepage": "https://github.com/alexander-usolcev/browser-event-emitter#readme"
 }
