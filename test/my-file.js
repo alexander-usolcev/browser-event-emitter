@@ -21,7 +21,7 @@ function test() {
     console.log('remove one listener');
     eventEmitter.removeListener('test', cb);
 
-    eventEmitter.emit('test');
+    eventEmitter.emit('test', 'new test data');
 }
 
 export default test();
