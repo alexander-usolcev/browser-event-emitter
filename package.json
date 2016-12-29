@@ -1,6 +1,6 @@
 {
   "name": "browser-event-emitter",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "description": "Simple implementation of EventEmitter in browser",
   "author": "Alexander Usolcev <alexander.usolcev@gmail.com>",
   "repository": {
