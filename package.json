@@ -33,7 +33,8 @@
     "observer",
     "trigger",
     "events",
-    "event"
+    "event",
+    "browser"
   ],
   "license": "MIT",
   "bugs": {
