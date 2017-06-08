@@ -5,7 +5,7 @@ For building you can use [Webpack](https://webpack.github.io/) or something like
 
 ## Install
 ``` js
-npm install browser-event-emitter --save-dev
+npm install browser-event-emitter --save
 ```
 
 ## Usage
